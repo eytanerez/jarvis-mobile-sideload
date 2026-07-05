@@ -16,6 +16,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "3",
+          "date": "2026-07-05",
+          "localizedDescription": "Test: build-number bump now actually works",
+          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b3/JarvisMobile.ipa",
+          "size": 4009985
+        },
+        {
+          "version": "1.0",
           "buildVersion": "1",
           "date": "2026-07-05",
           "localizedDescription": "Test: verifying the fixed auto-increment + propagation-check pipeline",

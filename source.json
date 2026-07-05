@@ -18,9 +18,9 @@
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-07-05",
-          "localizedDescription": "Pipeline validation run (no code changes)",
+          "localizedDescription": "Test: verifying the fixed auto-increment + propagation-check pipeline",
           "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b1/JarvisMobile.ipa",
-          "size": 4009965
+          "size": 4009971
         }
       ]
     }

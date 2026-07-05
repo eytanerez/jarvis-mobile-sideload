@@ -21,14 +21,6 @@
           "localizedDescription": "Pipeline validation run (no code changes)",
           "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b1/JarvisMobile.ipa",
           "size": 4009965
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-07-05",
-          "localizedDescription": "Initial sideload build. Main app + Share extension.",
-          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0.0/JarvisMobile-trimmed.ipa",
-          "size": 3877292
         }
       ]
     }

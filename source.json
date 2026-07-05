@@ -16,6 +16,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "4",
+          "date": "2026-07-05",
+          "localizedDescription": "Sideload update.",
+          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b4/JarvisMobile.ipa",
+          "size": 4012304
+        },
+        {
+          "version": "1.0",
           "buildVersion": "3",
           "date": "2026-07-05",
           "localizedDescription": "Test: build-number bump now actually works",

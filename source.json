@@ -16,6 +16,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "6",
+          "date": "2026-07-05",
+          "localizedDescription": "Sideload update.",
+          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b6/JarvisMobile.ipa",
+          "size": 4048636
+        },
+        {
+          "version": "1.0",
           "buildVersion": "5",
           "date": "2026-07-05",
           "localizedDescription": "Mobile relay fixes, model effort controls, and chat loading states.",

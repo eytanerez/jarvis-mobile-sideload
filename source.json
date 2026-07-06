@@ -16,6 +16,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "13",
+          "date": "2026-07-06",
+          "localizedDescription": "Restores the newest mobile app flow with web-tuned voice orb reactivity, fast end-of-turn detection, and barge-in fixes.",
+          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b13/JarvisMobile.ipa",
+          "size": 4061099
+        },
+        {
+          "version": "1.0",
           "buildVersion": "8",
           "date": "2026-07-06",
           "localizedDescription": "Mobile voice barge-in, mute controls, clarify handling, and relay self-test support.",

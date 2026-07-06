@@ -16,6 +16,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "14",
+          "date": "2026-07-06",
+          "localizedDescription": "Improves mobile voice playback and orb smoothness with shared-engine TTS, coalesced orb updates, pinned web-parity voice tuning, and the latest voice controls.",
+          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b14/JarvisMobile.ipa",
+          "size": 4334266
+        },
+        {
+          "version": "1.0",
           "buildVersion": "13",
           "date": "2026-07-06",
           "localizedDescription": "Adds computer-menu voice controls for switching between Whisper and Apple speech recognition, plus a tap behavior toggle for interrupting or ending the orb session.",

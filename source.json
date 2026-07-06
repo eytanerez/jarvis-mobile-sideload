@@ -16,30 +16,6 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "12",
-          "date": "2026-07-06",
-          "localizedDescription": "Apple on-device transcription is back (instant captions), with Mac Whisper as automatic fallback.",
-          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b12/JarvisMobile.ipa",
-          "size": 4058340
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "11",
-          "date": "2026-07-06",
-          "localizedDescription": "Voice loop port from web app: Whisper-only STT, web orb reactivity, always-on barge-in",
-          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b11/JarvisMobile.ipa",
-          "size": 4054748
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "10",
-          "date": "2026-07-06",
-          "localizedDescription": "Mobile model switching, cleaner tool labels, and streamlined voice/orb flow.",
-          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b10/JarvisMobile.ipa",
-          "size": 4060840
-        },
-        {
-          "version": "1.0",
           "buildVersion": "9",
           "date": "2026-07-06",
           "localizedDescription": "Mobile link resume fixes, safer voice controls, and relay static asset support.",

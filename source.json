@@ -16,14 +16,6 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "9",
-          "date": "2026-07-06",
-          "localizedDescription": "Mobile link resume fixes, safer voice controls, and relay static asset support.",
-          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b9/JarvisMobile.ipa",
-          "size": 4338755
-        },
-        {
-          "version": "1.0",
           "buildVersion": "8",
           "date": "2026-07-06",
           "localizedDescription": "Mobile voice barge-in, mute controls, clarify handling, and relay self-test support.",

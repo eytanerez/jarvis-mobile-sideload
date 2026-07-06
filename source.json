@@ -16,6 +16,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "11",
+          "date": "2026-07-06",
+          "localizedDescription": "Voice loop port from web app: Whisper-only STT, web orb reactivity, always-on barge-in",
+          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b11/JarvisMobile.ipa",
+          "size": 4054748
+        },
+        {
+          "version": "1.0",
           "buildVersion": "10",
           "date": "2026-07-06",
           "localizedDescription": "Mobile model switching, cleaner tool labels, and streamlined voice/orb flow.",

@@ -18,9 +18,9 @@
           "version": "1.0",
           "buildVersion": "13",
           "date": "2026-07-06",
-          "localizedDescription": "Restores the newest mobile app flow with web-tuned voice orb reactivity, fast end-of-turn detection, and barge-in fixes.",
+          "localizedDescription": "Adds computer-menu voice controls for switching between Whisper and Apple speech recognition, plus a tap behavior toggle for interrupting or ending the orb session.",
           "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b13/JarvisMobile.ipa",
-          "size": 4061099
+          "size": 4062518
         },
         {
           "version": "1.0",

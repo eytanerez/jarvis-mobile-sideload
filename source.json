@@ -16,6 +16,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "17",
+          "date": "2026-07-09",
+          "localizedDescription": "Skeleton loading UI + faster connect (concurrent LAN/relay probing) + mobile-context awareness",
+          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b17/JarvisMobile.ipa",
+          "size": 4360436
+        },
+        {
+          "version": "1.0",
           "buildVersion": "16",
           "date": "2026-07-09",
           "localizedDescription": "Fix voice self-triggering rebuild loop (doubled transcript/overlapping speech), stale-turn recovery, chat scroll-while-thinking, turn summary disclosure, Live Activity staleness, and reasoning + clean text restored on reopen.",

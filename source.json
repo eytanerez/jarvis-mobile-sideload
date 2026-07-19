@@ -18,9 +18,9 @@
           "version": "1.0",
           "buildVersion": "18",
           "date": "2026-07-19",
-          "localizedDescription": "Adds Claude Code and Codex modes behind the top mode picker, with the latest mobile orb bundle.",
+          "localizedDescription": "Added Claude Code and Codex modes: pick from a top dropdown, browse and drive sessions running on your Mac, with a model picker and a smoother scrolling transcript.",
           "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b18/JarvisMobile.ipa",
-          "size": 4163094
+          "size": 4446816
         },
         {
           "version": "1.0",

@@ -16,6 +16,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "20",
+          "date": "2026-07-20",
+          "localizedDescription": "Live Claude and Codex sessions with steering, plan mode, reasoning controls, and rich tool transcripts; restores Jarvis mobile messaging after slow desktop startup.",
+          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b20/JarvisMobile.ipa",
+          "size": 4496544
+        },
+        {
+          "version": "1.0",
           "buildVersion": "19",
           "date": "2026-07-19",
           "localizedDescription": "Fixed Claude/Codex tabs not loading and Claude showing as logged out.",

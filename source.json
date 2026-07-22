@@ -16,6 +16,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "21",
+          "date": "2026-07-22",
+          "localizedDescription": "Live Claude and Codex sessions with steering, plan mode, reasoning controls, and rich tool transcripts; fixes the relay reconnect loop on large chats and restores reliable Jarvis, Claude, and Codex messaging.",
+          "downloadURL": "https://github.com/eytanerez/jarvis-mobile-sideload/releases/download/v1.0-b21/JarvisMobile.ipa",
+          "size": 4498980
+        },
+        {
+          "version": "1.0",
           "buildVersion": "20",
           "date": "2026-07-20",
           "localizedDescription": "Live Claude and Codex sessions with steering, plan mode, reasoning controls, and rich tool transcripts; restores Jarvis mobile messaging after slow desktop startup.",
